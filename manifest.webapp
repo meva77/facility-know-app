@@ -1,0 +1,21 @@
+{
+    "version": "0.1",
+    "name": "Facility Know",
+    "description": "Facility search app",
+    "launch_path": "index.html",
+    "icons": {
+        "16": "/img/seed-16x16.png",
+        "48": "/img/seed-48x48.png",
+        "128": "/img/seed-128x128.png"
+    },
+    "developer": {
+        "name": "Group B",
+        "url": "#"
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "../../.."
+        }
+    }
+}
