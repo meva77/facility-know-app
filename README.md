@@ -3,10 +3,10 @@
 Angular 1 Seed application
 
 ## Installation
-This App takes care of all basic setup of application for dhis, simply clone it and start development.
+This App searches a facility and displays the information about it
 
 ### Authors
-1. John Francis Mukulu
+1. Group B
 =======
 # facility-know-app
 Searching facility &amp; display information about it
