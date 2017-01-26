@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# ng1-seed-app
-Angular 1 Seed application
+
+#  Facility search and info page
+A DHIS2 App that can searches for facility and displays info page about the facility. 
 
 ## Installation
 This App searches a facility and displays the information about it
@@ -9,5 +9,4 @@ This App searches a facility and displays the information about it
 1. Group B
 =======
 # facility-know-app
-Searching facility &amp; display information about it
->>>>>>> 2e710cc93ece506f05b9d2bfba672d4cd69508f2
+Searching facility & display information about it
